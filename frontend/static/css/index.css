@@ -1,0 +1,15 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    color: black;
+    font-size: large;
+}
+
+#main {
+    width: 100%;
+}
+
+#app {
+    width: 100%;
+}
